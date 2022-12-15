@@ -5,5 +5,8 @@ day4/venv/
 day5/venv/
 day6/venv/
 day6/__pycache__/
+day7/venv/
+day7/__pycache__/
+day7/Models/__pycache__/
 .idea/
 .DS_Store
